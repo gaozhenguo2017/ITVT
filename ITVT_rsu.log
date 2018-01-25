@@ -1,0 +1,764 @@
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2015.5.22)  11 JAN 2018 08:13
+entering extended mode
+**ITVT_rsu.tex
+(F:\01paper\02PaperWrite\7_latex\08ZH\20170825ITVTRnd2p3\src\ITVT_rsu.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(F:\01paper\02PaperWrite\7_latex\08ZH\20170825ITVTRnd2p3\src\IEEEtran.cls
+Document Class: IEEEtran 2012/12/27 V1.8 by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count80
+\@IEEEtrantmpcountB=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 368.
+
+(D:\program\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+Requested font "ptmr7t" at 10.0pt
+ -> ptmr7t
+
+-- Using 8.5in x 11in (letter) paper.
+-- Using DVI output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+Requested font "ptmr7t" at 5.0pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+Requested font "ptmb7t" at 5.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 5.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+Requested font "ptmbi7t" at 5.0pt
+ -> ptmbi7t
+Requested font "ptmr7t" at 7.0pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+Requested font "ptmb7t" at 7.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 7.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+Requested font "ptmbi7t" at 7.0pt
+ -> ptmbi7t
+Requested font "ptmr7t" at 8.0pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+Requested font "ptmb7t" at 8.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 8.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+Requested font "ptmbi7t" at 8.0pt
+ -> ptmbi7t
+Requested font "ptmr7t" at 9.0pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+Requested font "ptmb7t" at 9.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 9.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+Requested font "ptmbi7t" at 9.0pt
+ -> ptmbi7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+Requested font "ptmb7t" at 10.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 10.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+Requested font "ptmbi7t" at 10.0pt
+ -> ptmbi7t
+Requested font "ptmr7t" at 11.0pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+Requested font "ptmb7t" at 11.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 11.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+Requested font "ptmbi7t" at 11.0pt
+ -> ptmbi7t
+Requested font "ptmr7t" at 12.0pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+Requested font "ptmb7t" at 12.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 12.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+Requested font "ptmbi7t" at 12.0pt
+ -> ptmbi7t
+Requested font "ptmr7t" at 17.0pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+Requested font "ptmb7t" at 17.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 17.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+Requested font "ptmbi7t" at 17.0pt
+ -> ptmbi7t
+Requested font "ptmr7t" at 20.0pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+Requested font "ptmb7t" at 20.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 20.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+Requested font "ptmbi7t" at 20.0pt
+ -> ptmbi7t
+Requested font "ptmr7t" at 24.0pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+Requested font "ptmb7t" at 24.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 24.0pt
+ -> ptmri7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+Requested font "ptmbi7t" at 24.0pt
+ -> ptmbi7t
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count92
+\@IEEEtranrubishbin=\box26
+) (D:\program\CTEX\UserData\tex\latex\cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+(D:\program\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(D:\program\CTEX\MiKTeX\tex\latex\tools\enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks16
+)
+(D:\program\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(D:\program\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(D:\program\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen117
+))
+(D:\program\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen118
+)
+(D:\program\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen119
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks18
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks19
+\eqnshift@=\dimen120
+\alignsep@=\dimen121
+\tagshift@=\dimen122
+\tagwidth@=\dimen123
+\totwidth@=\dimen124
+\lineht@=\dimen125
+\@envbody=\toks20
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(D:\program\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\program\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(F:\01paper\02PaperWrite\7_latex\08ZH\20170825ITVTRnd2p3\src\graphics.sty
+Package: graphics 1999/02/16 v1.0l Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\program\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(D:\program\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 80.
+
+(D:\program\CTEX\MiKTeX\tex\latex\graphics\dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(D:\program\CTEX\UserData\tex\latex\algorithms\algorithm.sty
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(D:\program\CTEX\MiKTeX\tex\latex\float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count105
+\float@exts=\toks23
+\float@box=\box29
+\@float@everytoks=\toks24
+\@floatcapt=\box30
+)
+(D:\program\CTEX\MiKTeX\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks25
+\c@algorithm=\count106
+)
+(D:\program\CTEX\UserData\tex\latex\algorithms\algorithmic.sty
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count107
+\c@ALC@line=\count108
+\c@ALC@rem=\count109
+\c@ALC@depth=\count110
+\ALC@tlm=\skip47
+\algorithmicindent=\skip48
+)
+(F:\01paper\02PaperWrite\7_latex\08ZH\20170825ITVTRnd2p3\src\ITVT_rsu.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 337.
+LaTeX Font Info:    ... okay on input line 337.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 337.
+LaTeX Font Info:    ... okay on input line 337.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 337.
+LaTeX Font Info:    ... okay on input line 337.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 337.
+LaTeX Font Info:    ... okay on input line 337.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 337.
+LaTeX Font Info:    ... okay on input line 337.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 337.
+LaTeX Font Info:    ... okay on input line 337.
+Requested font "cmr9" at 9.0pt
+ -> cmr9
+Requested font "cmr6" at 6.0pt
+ -> cmr6
+Requested font "cmmi9" at 9.0pt
+ -> cmmi9
+Requested font "cmmi6" at 6.0pt
+ -> cmmi6
+Requested font "cmsy9" at 9.0pt
+ -> cmsy9
+Requested font "cmsy6" at 6.0pt
+ -> cmsy6
+Requested font "cmex9" at 9.0pt
+ -> cmex9
+Requested font "cmex7" at 6.0pt
+ -> cmex7
+Requested font "cmex7" at 5.0pt
+ -> cmex7
+LaTeX Font Info:    Try loading font information for U+msa on input line 416.
+
+(D:\program\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+Requested font "msam10" at 9.0pt
+ -> msam10
+Requested font "msam7" at 6.0pt
+ -> msam7
+Requested font "msam5" at 5.0pt
+ -> msam5
+LaTeX Font Info:    Try loading font information for U+msb on input line 416.
+
+(D:\program\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Requested font "msbm10" at 9.0pt
+ -> msbm10
+Requested font "msbm7" at 6.0pt
+ -> msbm7
+Requested font "msbm5" at 5.0pt
+ -> msbm5
+Requested font "ptmrc7t" at 10.0pt
+ -> ptmrc7t
+\c@lemma=\count111
+\c@theorem=\count112
+\c@property=\count113
+\c@corollary=\count114
+Requested font "cmex7" at 7.0pt
+ -> cmex7
+Requested font "msam10" at 10.0pt
+ -> msam10
+Requested font "msam7" at 7.0pt
+ -> msam7
+Requested font "msbm10" at 10.0pt
+ -> msbm10
+Requested font "msbm7" at 7.0pt
+ -> msbm7
+ [1
+
+
+]
+Missing character: There is no £ in font ptmr7t!
+Missing character: There is no » in font ptmr7t!
+ [2] [3]
+File: rsu_roadline.eps Graphic file (type eps)
+
+<rsu_roadline.eps> [4]
+Underfull \hbox (badness 4608) in paragraph at lines 598--599
+[]\OT1/ptm/m/n/10 For a one-dimensional RD-P prob-lem of one R-SU
+ []
+
+
+Overfull \hbox (6.35887pt too wide) detected at line 654
+[]
+ []
+
+
+Underfull \hbox (badness 7116) in paragraph at lines 676--677
+[]\OT1/ptm/m/n/10 In this case, we con-duc-t anal-y-ses in the fol-
+ []
+
+
+Underfull \hbox (badness 6944) in paragraph at lines 676--677
+\OT1/ptm/m/n/10 low-ing three sub-cas-es. Here we de-fine func-tion
+ []
+
+[5]
+Underfull \hbox (badness 2762) in paragraph at lines 786--787
+[]\OT1/ptm/m/n/10 Since that $\OML/cmm/m/it/10 x$ \OT1/ptm/m/n/10 that max-i-mi
+zes $\OML/cmm/m/it/10 B\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )$ \O
+T1/ptm/m/n/10 should sat-is-fy
+ []
+
+
+Underfull \hbox (badness 3568) in paragraph at lines 790--791
+[]\OT1/ptm/m/n/10 Combining above t-wo cas-es, we ob-tain that al-l $\OML/cmm/m
+/it/10 x$
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 790--791
+\OT1/ptm/m/n/10 ther-more, we can no-tice that each $\OML/cmm/m/it/10 x[]X[]\OT
+1/cmr/m/n/10 (\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 )$ \OT1/ptm/m/n/10 must al-
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 790--791
+\OT1/ptm/m/n/10 so sat-is-fy both Eq.(15b[]) and Eq.(16b[]), hence we have
+ []
+
+[6]
+Underfull \hbox (badness 4084) in paragraph at lines 831--832
+\OT1/ptm/m/n/10 s must be in set $\OML/cmm/m/it/10 X[]\OT1/cmr/m/n/10 (\OML/cmm
+/m/it/10 m[]d\OT1/cmr/m/n/10 )$\OT1/ptm/m/n/10 . This $\OML/cmm/m/it/10 x$ \OT1
+/ptm/m/n/10 ac-tu-al-ly cor-
+ []
+
+
+Underfull \hbox (badness 4713) in paragraph at lines 831--832
+\OT1/ptm/m/n/10 re-spond-s to a list $\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 x; x[]d
+; [] ; x[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 i[]\OT1/cmr/m/n/10 1)\OML/cmm/m/it/
+10 d\OT1/cmr/m/n/10 ]$\OT1/ptm/m/n/10 , which are
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 831--832
+\OT1/ptm/m/n/10 the po-si-tion-s of the strip-s in the vir-tu-al strip. Us-
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 831--832
+\OT1/ptm/m/n/10 ing no-ta-tion $\OML/cmm/m/it/10 X[]d []\OMS/cmsy/m/n/10 f\OML/
+cmm/m/it/10 x[]d\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 x[]X\OMS/cmsy/m/n/10 g$\OT1/
+ptm/m/n/10 , the set of al-l can-di-
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 831--832
+\OT1/ptm/m/n/10 date po-si-tion-s of strip-s de-ter-mined by $\OML/cmm/m/it/10 
+X[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 m[]d\OT1/cmr/m/n/10 )$ \OT1/ptm/m/n/10 can
+
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 831--832
+\OT1/ptm/m/n/10 be ex-pressed as $\OML/cmm/m/it/10 X[]\OT1/cmr/m/n/10 (\OML/cmm
+/m/it/10 m; d\OT1/cmr/m/n/10 )[] [](\OML/cmm/m/it/10 X[]\OT1/cmr/m/n/10 (\OML/c
+mm/m/it/10 m[]d\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 i[]d\OT1/cmr/m/n/10 )$\OT1/p
+tm/m/n/10 , so
+ []
+
+
+Underfull \hbox (badness 6204) in paragraph at lines 831--832
+\OT1/ptm/m/n/10 we have $\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 X[]\OT1/cmr/m/n/10 
+(\OML/cmm/m/it/10 m; d\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 j[]\OML/cmm/m/it/10 m[]
+\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 X[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 m[]d\OT
+1/cmr/m/n/10 )\OMS/cmsy/m/n/10 j$\OT1/ptm/m/n/10 . Here $\OMS/cmsy/m/n/10 j\OML
+/cmm/m/it/10 s\OMS/cmsy/m/n/10 j$ \OT1/ptm/m/n/10 de-
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 831--832
+\OT1/ptm/m/n/10 notes the size of set $\OML/cmm/m/it/10 s$\OT1/ptm/m/n/10 . Mak
+-ing a sym-bol def-i-ni-tion
+ []
+
+
+Underfull \hbox (badness 7468) in paragraph at lines 831--832
+\OT1/ptm/m/n/10 road seg-ments have con-stan-t prof-it den-si-ty func-tion,
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 831--832
+\OT1/ptm/m/n/10 Eq.5[] im-plies that most el-e-ments in $\OML/cmm/m/it/10 X[]\O
+T1/cmr/m/n/10 (\OML/cmm/m/it/10 i; d\OT1/cmr/m/n/10 )$ \OT1/ptm/m/n/10 are al-
+ []
+
+
+Underfull \hbox (badness 6332) in paragraph at lines 831--832
+\OT1/ptm/m/n/10 so el-e-ments of $\OML/cmm/m/it/10 X[]\OT1/cmr/m/n/10 (\OML/cmm
+/m/it/10 i[]\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; d\OT1/cmr/m/n/10 )$\OT1/ptm/m/n
+/10 . Thus, we can rough-
+ []
+
+
+Underfull \hbox (badness 3590) in paragraph at lines 831--832
+\OT1/ptm/m/n/10 ly as-sume that $\OML/cmm/m/it/10 X[]\OT1/cmr/m/n/10 (\OML/cmm/
+m/it/10 i; d\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 X[]\OT1/cmr/m/n/10 (\OML/cmm/m/
+it/10 i[]\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; d\OT1/cmr/m/n/10 )$\OT1/ptm/m/n/10
+ . As a re-sult,
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 847.
+
+(D:\program\CTEX\MiKTeX\tex\latex\psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Requested font "pcrr7t" at 10.0pt
+ -> pcrr7t
+
+Underfull \hbox (badness 3029) in paragraph at lines 847--848
+[]\OT1/ptm/m/n/10 Pseudo code of the Greedy2P3 al-go-rith-m is shown
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 847--848
+\OT1/ptm/m/n/10 in Al-go-rith-m 1[]. In this code, struc-tural vari-able
+ []
+
+
+Underfull \hbox (badness 2951) in paragraph at lines 847--848
+\OML/cmm/m/it/10 roadNet$ \OT1/ptm/m/n/10 con-tain-s raw in-for-ma-tion about t
+he prob-lem,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 847--848
+\OT1/ptm/m/n/10 struc-tural vari-able $\OML/cmm/m/it/10 dataMat$ \OT1/ptm/m/n/1
+0 con-tain-s in-for-ma-tion
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 847--848
+\OT1/ptm/m/n/10 such as list of can-di-date strip po-si-tion-s, list of strip
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 847--848
+\OT1/ptm/m/n/10 by func-tion $[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 roadNet\OT1/c
+mr/m/n/10 )$\OT1/ptm/m/n/10 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 847--848
+\OT1/ptm/m/n/10 Func-tion $[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 dataMat; posList
+; dList\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 i\OT1/cmr/m/n/10 ))$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 847--848
+\OT1/ptm/m/n/10 re-turn the strip with max-i-mum prof-it a-mong al-l
+ []
+
+
+Underfull \hbox (badness 6725) in paragraph at lines 847--848
+\OT1/ptm/m/n/10 strip-s un-cov-ered by the strip-s in $\OML/cmm/m/it/10 optList
+$\OT1/ptm/m/n/10 . Func-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 847--848
+[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 dList\OT1/cmr/m/n/10 )$ \OT1/ptm/m/n/10 re-
+turn-s the sort-ed list of
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 847--848
+[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 dataMat; dList\OT1/cmr/m/n/10 (\OML/cmm/m/i
+t/10 i\OT1/cmr/m/n/10 ))$ \OT1/ptm/m/n/10 up-dates road line
+ []
+
+
+Overfull \hbox (25.63155pt too wide) in paragraph at lines 862--863
+[] []$\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 pos; val\OT1/cmr/m/n/10 ][][](\OML/cmm/
+m/it/10 dataMat; posList; dList\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 i\OT1/cmr/m/n/
+10 ))$\OT1/ptm/m/n/10 ; 
+ []
+
+
+Underfull \hbox (badness 7379) in paragraph at lines 872--873
+[]\OT1/ptm/m/n/10 In Greedy2P3, func-tion $[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 
+dataMat$\OT1/ptm/m/n/10 ,
+ []
+
+[7]
+Overfull \hbox (19.18578pt too wide) in paragraph at lines 894--895
+[] []$\OML/cmm/m/it/10 posList[][]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 roadNet; po
+sList; ccs; n[]\OT1/cmr/m/n/10 )$\OT1/ptm/m/n/10 ; 
+ []
+
+
+Underfull \hbox (badness 2818) in paragraph at lines 918--919
+[]\OT1/ptm/m/n/10 Running time of the greedy al-go-rithm-s de-pend-s on
+ []
+
+[8]
+Overfull \hbox (0.85422pt too wide) detected at line 983
+[]
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 1047--1049
+[][]\OT1/ptm/b/it/10 Lemma \OT1/ptm/m/it/10 9: []\OT1/ptm/m/n/10 Time com-plex-
+i-ty of Opt-Gre-Dyn
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1047--1049
+\OT1/ptm/m/n/10 is $\OMS/cmsy/m/n/10 O\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 C[]F[]M
+[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 M\OT1/cmr/m/n/10 ))$ \OT1/ptm/m/n/10 when $
+\OML/cmm/m/it/10 n[]\OT1/cmr/m/n/10 2[]\OML/cmm/m/it/10 i$\OT1/ptm/m/n/10 , and
+
+ []
+
+
+Underfull \hbox (badness 6236) in paragraph at lines 1047--1049
+\OMS/cmsy/m/n/10 O\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 C[]\OT1/cmr/m/n/10 (\OML/cm
+m/m/it/10 C[]F\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 M[]\OT1/cmr/m/n/10 (\OML/cmm/
+m/it/10 M\OT1/cmr/m/n/10 ))$ \OT1/ptm/m/n/10 when $\OML/cmm/m/it/10 n[]\OT1/cmr
+/m/n/10 2[]\OML/cmm/m/it/10 i[]\OT1/cmr/m/n/10 1$\OT1/ptm/m/n/10 , where
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1054--1055
+[]\OT1/ptm/m/n/10 Denoting the run-ning time of re-cur-sive it-er-a-tions
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 1054--1055
+\OT1/ptm/m/n/10 with $\OML/cmm/m/it/10 n$ \OT1/ptm/m/n/10 as $\OML/cmm/m/it/10 
+T\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n\OT1/cmr/m/n/10 )$\OT1/ptm/m/n/10 , we have
+ $\OML/cmm/m/it/10 T\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n\OT1/cmr/m/n/10 )[]\OML/
+cmm/m/it/10 T\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n[]\OT1/cmr/m/n/10 1)[]\OML/cmm/
+m/it/10 C[]T\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n[]\OT1/cmr/m/n/10 2)$\OT1/ptm/m/
+n/10 .
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 1054--1055
+\OT1/ptm/m/n/10 With $\OML/cmm/m/it/10 T\OT1/cmr/m/n/10 (1)[]\OMS/cmsy/m/n/10 O
+\OT1/cmr/m/n/10 (1)$ \OT1/ptm/m/n/10 and $\OML/cmm/m/it/10 T\OT1/cmr/m/n/10 (2)
+[]\OML/cmm/m/it/10 F[]T\OT1/cmr/m/n/10 (1)[]\OMS/cmsy/m/n/10 O\OT1/cmr/m/n/10 (
+\OML/cmm/m/it/10 F\OT1/cmr/m/n/10 )$\OT1/ptm/m/n/10 , we ob-tain
+ []
+
+[10]
+File: rsu_logicgroupstyle.eps Graphic file (type eps)
+ <rsu_logicgroupstyle.eps>
+File: rsu_example2p3.eps Graphic file (type eps)
+ <rsu_example2p3.eps> [11]
+File: sim_candnum_road.eps Graphic file (type eps)
+
+<sim_candnum_road.eps>
+File: sim_candnum_rsunum.eps Graphic file (type eps)
+ <sim_candnum_rsunum.eps>
+Requested font "cmr8" at 8.0pt
+ -> cmr8
+Requested font "cmmi8" at 8.0pt
+ -> cmmi8
+Requested font "cmsy8" at 8.0pt
+ -> cmsy8
+Requested font "cmex8" at 8.0pt
+ -> cmex8
+Requested font "msam10" at 8.0pt
+ -> msam10
+Requested font "msbm10" at 8.0pt
+ -> msbm10
+Requested font "ptmr7t" at 6.0pt
+ -> ptmr7t
+ [12]
+File: sim_roadlen_profit.eps Graphic file (type eps)
+ <sim_roadlen_profit.eps>
+File: sim_roadlen_time.eps Graphic file (type eps)
+
+<sim_roadlen_time.eps>
+File: sim_roadlen_timezoom.eps Graphic file (type eps)
+ <sim_roadlen_timezoom.eps>
+File: sim_roadlen_trynum.eps Graphic file (type eps)
+ <sim_roadlen_trynum.eps>
+File: sim_rsunum_profit.eps Graphic file (type eps)
+
+<sim_rsunum_profit.eps>
+File: sim_rsunum_time.eps Graphic file (type eps)
+ <sim_rsunum_time.eps> [13]
+File: rsu_cellstyle.eps Graphic file (type eps)
+ <rsu_cellstyle.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 1457--1459
+[][]\OT1/ptm/b/it/10 Property \OT1/ptm/m/it/10 3: []\OT1/ptm/m/n/10 If $\OML/cm
+m/m/it/10 B\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 cg[]\OT1/cmr/m/n/10 )[]\OML/cmm/m/
+it/10 B\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 co[]\OT1/cmr/m/n/10 )$\OT1/ptm/m/n/10 
+, then cel-l styles
+ []
+
+[14]
+Underfull \hbox (badness 2469) in paragraph at lines 1475--1476
+[]\OT1/ptm/m/n/10 As a con-clu-sion, cel-l style $\OML/cmm/m/it/10 CS[]$ \OT1/p
+tm/m/n/10 is un-sta-ble when
+ []
+
+File: rsu_extension.eps Graphic file (type eps)
+<rsu_extension.eps>
+Underfull \hbox (badness 6157) in paragraph at lines 1492--1494
+[][]\OT1/ptm/b/it/10 Property \OT1/ptm/m/it/10 5: []\OT1/ptm/m/n/10 If $\OML/cm
+m/m/it/10 B\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 cg[]\OT1/cmr/m/n/10 )[]\OML/cmm/m/
+it/10 B\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 co[]\OT1/cmr/m/n/10 )$ \OT1/ptm/m/n/10
+ or $\OML/cmm/m/it/10 B\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 cg[]\OT1/cmr/m/n/10 )[
+]\OML/cmm/m/it/10 B\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 co[]\OT1/cmr/m/n/10 )$\OT1
+/ptm/m/n/10 ,
+ []
+
+[15]
+File: rsu_groupstyle.eps Graphic file (type eps)
+ <rsu_groupstyle.eps>
+Underfull \hbox (badness 2564) in paragraph at lines 1521--1522
+\OML/cmm/m/it/10 GS[]$ \OT1/ptm/m/n/10 can rep-re-sen-t group-s formed by cel-l
+ style $\OML/cmm/m/it/10 CS[]$\OT1/ptm/m/n/10 ,
+ []
+
+File: rsu_logicrearrange.eps Graphic file (type eps)
+<rsu_logicrearrange.eps> [16]
+File: rsu_lgsb_cal2p3.eps Graphic file (type eps)
+ <rsu_lgsb_cal2p3.eps> [17]
+Underfull \hbox (badness 10000) in paragraph at lines 1738--1739
+[]\OT1/ptm/m/n/8 Wikipedia, "Ge-o-met-ric set cov-er prob-lem," http-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1741--1742
+[]\OT1/ptm/m/n/8 Wikipedia, "Max-i-mum cov-er-age prob-lem," http-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1780--1781
+[]\OT1/ptm/m/n/8 Wikipedia, "In-de-pen-den-t set (graph the-o-ry)," http-
+ []
+
+File: author1_gzg.eps Graphic file (type eps)
+<author1_gzg.eps>
+File: author1_gzg.eps Graphic file (type eps)
+ <author1_gzg.eps>
+File: author2_cdj.eps Graphic file (type eps)
+ <author2_cdj.eps>
+File: author2_cdj.eps Graphic file (type eps)
+ <author2_cdj.eps>
+[18]
+File: author4_whc.eps Graphic file (type eps)
+ <author4_whc.eps>
+File: author4_whc.eps Graphic file (type eps)
+ <author4_whc.eps> [19
+
+]
+(F:\01paper\02PaperWrite\7_latex\08ZH\20170825ITVTRnd2p3\src\ITVT_rsu.aux) ) 
+Here is how much of TeX's memory you used:
+ 2518 strings out of 430478
+ 34674 string characters out of 3191302
+ 98273 words of memory out of 3000000
+ 5630 multiletter control sequences out of 15000+200000
+ 32423 words of font info for 83 fonts, out of 3000000 for 9000
+ 15 hyphenation exceptions out of 8191
+ 27i,20n,34p,2063b,531s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on ITVT_rsu.pdf (19 pages).
